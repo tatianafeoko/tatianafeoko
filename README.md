@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hello my name is Tatiana Feoko and I am an Accounting & Finance major undergraduate student at the University of Hawaii at Manoa. 
 <!--
 **tatianafeoko/tatianafeoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
